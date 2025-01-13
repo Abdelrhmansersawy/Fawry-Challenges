@@ -11,7 +11,7 @@ public class ProductResource {
 
     // Add product
     @POST
-        @Path("/create")
+    @Path("/create")
     public void addProduct(@QueryParam("name") String name, @QueryParam("price") String price) {
         if (name == null || price == null) {
             throw new BadRequestException("Name and price must be provided");
