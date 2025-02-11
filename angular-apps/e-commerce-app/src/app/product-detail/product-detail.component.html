@@ -1,0 +1,25 @@
+<div class="container my-4" *ngIf="product">
+    <div class="card">
+      <img [src]="product.Image" class="card-img-top" alt="{{ product.Name }}">
+      <div class="card-body">
+        <h5 class="card-title">{{ product.Name }}</h5>
+        <p class="card-text">{{ product.Description }}</p>
+        <p class="card-text">Price: ${{ product.Price }}</p>
+        <div class="mb-3">
+          <!-- Input for quantity -->
+          <label for="quantity" class="form-label">Quantity:</label>
+          <input 
+            type="number" 
+            id="quantity" 
+            class="form-control" 
+            [(ngModel)]="quantity" 
+            min="1"
+            required 
+          />
+        </div>
+        <!-- Add to Cart Button -->
+        <button class="btn btn-success" (click)="addToCart()">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+  

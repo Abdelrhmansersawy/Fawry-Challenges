@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 1,
+        "Name": "Wireless Bluetooth Earbuds",
+        "Description": "High-quality sound with noise cancellation.",
+        "Price": 59.99,
+        "Image": "https://images.pexels.com/photos/1646704/pexels-photo-1646704.jpeg"
+    },
+    {
+        "Id": 2,
+        "Name": "Smart LED TV 50-inch",
+        "Description": "4K Ultra HD Smart TV with HDR.",
+        "Price": 499.99,
+        "Image": "https://images.pexels.com/photos/5721908/pexels-photo-5721908.jpeg"
+    },
+    {
+        "Id": 3,
+        "Name": "Electric Kettle",
+        "Description": "Fast boiling with auto shut-off.",
+        "Price": 29.99,
+        "Image": "https://images.pexels.com/photos/4397919/pexels-photo-4397919.jpeg"
+    },
+    {
+        "Id": 4,
+        "Name": "Ergonomic Office Chair",
+        "Description": "Comfortable and adjustable office chair.",
+        "Price": 159.99,
+        "Image": "https://images.pexels.com/photos/4352247/pexels-photo-4352247.jpeg"
+    },
+    {
+        "Id": 5,
+        "Name": "Portable Bluetooth Speaker",
+        "Description": "Waterproof speaker with 20-hour battery life.",
+        "Price": 39.99,
+        "Image": "https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg"
+    },
+    {
+        "Id": 6,
+        "Name": "Wireless Charging Pad",
+        "Description": "Fast charging pad compatible with all Qi-enabled devices.",
+        "Price": 19.99,
+        "Image": "https://images.pexels.com/photos/3568518/pexels-photo-3568518.jpeg"
+    },
+    {
+        "Id": 7,
+        "Name": "Stainless Steel Water Bottle",
+        "Description": "Insulated, keeps drinks cold for 24 hours.",
+        "Price": 24.99,
+        "Image": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg"
+    },
+    {
+        "Id": 8,
+        "Name": "Smart Thermostat",
+        "Description": "Energy-saving thermostat with app control.",
+        "Price": 129.99,
+        "Image": "https://images.pexels.com/photos/3568518/pexels-photo-3568518.jpeg"
+    },
+    {
+        "Id": 9,
+        "Name": "Gaming Keyboard",
+        "Description": "Mechanical RGB keyboard with customizable keys.",
+        "Price": 89.99,
+        "Image": "https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg"
+    },
+    {
+        "Id": 10,
+        "Name": "Noise-Canceling Headphones",
+        "Description": "Over-ear headphones with 30-hour battery life.",
+        "Price": 199.99,
+        "Image": "https://images.pexels.com/photos/1646704/pexels-photo-1646704.jpeg"
+    }
+]
